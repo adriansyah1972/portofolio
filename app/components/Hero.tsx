@@ -77,7 +77,7 @@ export default function Hero() {
 
   const socials = [
     { icon: GitFork, href: 'https://github.com/adrnsah', label: 'GitHub' },
-    { icon: Link2, href: 'https://linkedin.com/in/adriansyah', label: 'LinkedIn' },
+    { icon: Link2, href: 'https://linkedin.com/in/adriansyah07', label: 'LinkedIn' },
     { icon: AtSign, href: 'https://instagram.com/_adrnsah', label: 'Instagram' },
     { icon: Mail, href: 'mailto:adrnsah@gmail.com', label: 'Email' },
   ];
