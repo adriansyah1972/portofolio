@@ -113,7 +113,7 @@ export default function Hero() {
 
         {/* Main heading */}
         <div style={{ marginBottom: 32 }}>
-          <p className="section-label" style={{ marginBottom: 16 }}>// programmer & ui/ux designer</p>
+          <p className="section-label" style={{ marginBottom: 16 }}>// software engineer & ui/ux designer</p>
           <h1 style={{ fontFamily: 'var(--display)', fontWeight: 800, fontSize: 'clamp(52px, 10vw, 110px)', lineHeight: 0.9, letterSpacing: '-0.02em', color: 'var(--text)' }}>
             ADRIAN
             <br />
@@ -123,7 +123,7 @@ export default function Hero() {
 
         {/* Bio */}
         <p style={{ maxWidth: 540, color: 'var(--text2)', lineHeight: 1.7, fontSize: 16, marginBottom: 40, fontFamily: 'var(--sans)' }}>
-          Programmer dan UI/UX Designer yang berfokus pada pengembangan aplikasi web dan mobile yang efisien, terstruktur, dan user-friendly.
+          Software Engineer dan UI/UX Designer yang berfokus pada pengembangan aplikasi web dan mobile yang efisien, terstruktur, dan user-friendly.
         </p>
 
         {/* CTAs */}
