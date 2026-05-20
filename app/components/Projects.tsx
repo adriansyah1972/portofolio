@@ -38,7 +38,7 @@ const projects = [
   {
     id: 2,
     label: 'Monitoring System',
-    title: 'Sistem Pengecekan APAR',
+    title: 'APAR',
     subtitle: 'Fire Extinguisher Inspection & Monitoring System',
     desc: 'Sistem digital untuk monitoring, inspeksi, dan pendataan kondisi APAR di lingkungan rumah sakit secara real-time dengan notifikasi otomatis masa berlaku.',
     details: 'Membantu petugas melakukan pengecekan rutin, mencatat kondisi APAR, memonitor masa berlaku, serta mendokumentasikan hasil inspeksi secara digital.',
