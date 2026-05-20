@@ -41,7 +41,16 @@ const journeys = [
     color: '#aa88ff',
     side: 'left',
   },
-  
+  {
+  year: '2025',
+  badge: 'Internship',
+  title: 'Magang / PKL — Kementerian Ketenagakerjaan',
+  org: 'KEMNAKER (Kementerian Ketenagakerjaan RI)',
+  desc: 'Melaksanakan program magang/PKL di lingkungan Kementerian Ketenagakerjaan dengan fokus pada pengembangan sistem informasi dan dukungan operasional IT untuk kebutuhan administrasi dan digitalisasi layanan.',
+  tags: ['Web Development', 'IT Support', 'System Maintenance', 'Database'],
+  color: 'var(--accent)',
+  side: 'right',
+},
   {
     year: '2021–2025',
     badge: 'Education',
@@ -50,7 +59,7 @@ const journeys = [
     desc: 'Menempuh pendidikan vokasi bidang rekayasa perangkat lunak. Lulus dengan IPK 3.66 (Sangat Memuaskan). Membangun fondasi kuat dalam software engineering dan database.',
     tags: ['Software Engineering', 'Database', 'OOP', 'Web Dev','Mobile Dev'],
     color: 'var(--text3)',
-    side: 'right',
+    side: 'left',
   },
   {
     year: '2025',
@@ -60,7 +69,7 @@ const journeys = [
     desc: 'Mendirikan layanan pengelolaan konten media sosial untuk UMKM — meliputi desain visual, copywriting, dan strategi konten untuk meningkatkan kehadiran digital.',
     tags: ['Figma', 'Content Strategy', 'Branding', 'UMKM'],
     color: '#ff9944',
-    side: 'left',
+    side: 'right',
   },
   {
   year: '2025',
@@ -70,7 +79,7 @@ const journeys = [
   desc: 'Merancang pengalaman pengguna dan antarmuka aplikasi Mental Health Care yang berfokus pada self-care, mood tracking, dan rekomendasi aktivitas healing secara personal dan real-time.',
   tags: ['Figma', 'UI/UX Design', 'User Research', 'Kotlin'],
   color: '#4dd0e1',
-  side: 'right',
+  side: 'left',
 },
 ];
 
