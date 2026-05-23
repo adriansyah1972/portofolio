@@ -22,7 +22,7 @@ export default function Contact() {
   const socials = [
     { icon: Mail, label: 'Email', value: 'adrnsah@gmail.com', href: 'mailto:adrnsah@gmail.com', color: 'var(--accent)' },
     { icon: GitFork, label: 'GitHub', value: 'github.com/adrnsah', href: 'https://github.com/adrnsah', color: 'var(--text)' },
-    { icon: Link2, label: 'LinkedIn', value: 'linkedin.com/in/adriansyah', href: 'https://linkedin.com/in/adriansyah', color: '#0A66C2' },
+    { icon: Link2, label: 'LinkedIn', value: 'linkedin.com/in/adriansyah', href: 'https://linkedin.com/in/adriansyah07', color: '#0A66C2' },
     { icon: AtSign, label: 'Instagram', value: '@_adrnsah', href: 'https://instagram.com/_adrnsah', color: '#E1306C' },
   ];
 
